@@ -18,11 +18,13 @@ When I'm not developing and building things, you can find me on Youtube learning
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![NodeJS](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![MySQL](https://img.shields.io/badge/-MYSQL-black?style=flat-square&logo=mysql)
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
 ##  How to reach me 📫
@@ -30,32 +32,6 @@ When I'm not developing and building things, you can find me on Youtube learning
  * 🐤 [Twitter](https://twitter.com/souhailAmgh) 
  * 👨💼 [LinkedIn](https://linkedin.com/in/souhail-amghar/) 
 
-
-
-<!--code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code-->
-
-
-
-
-
-<!--details>
-<summary>Table of content</summary>
-  
-<!--## Table of content
-   * [How to reach me](#How-to-reach-me-)
-   * [My skills](#My-skills-)
-   * [My projects](#My-Projects-)
-   * [Languages](#Languages-)-->
-
-<!--/details--> 
 
 ### 📰 Blog Posts
 <!-- BLOG-POST-LIST:START -->
