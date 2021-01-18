@@ -3,13 +3,6 @@
 
 
 
-<p>
-  <a href="https://www.linkedin.com/in/souhail-amghar/" target="_blank"><img alt="OiAb's LinkdeIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
-
-
-
 Hello, I'm **Souhail AMGHAR**. I'm an **Computer Science** and **Data Science** engineering student in **ENSEEIHT**  passionate about **Data Science** ,**Artificial Intelligence** et **Machine/Deep Learning**.
 When I'm not developing and building things, you can find me on Youtube learning, reading an article about science, new technology or politics, watching anime, daydreaming actionpacked dreams where i am the MC or on my laptop gaming. But most of my days are spent working on projects while listening to LoFi, ChillHop and/or Rainy Jazz, Studying or procrastinating (Sadge).
 
