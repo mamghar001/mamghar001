@@ -10,6 +10,7 @@
 
 
 Hello, I'm **Souhail AMGHAR**. I'm an **Computer Science** and **Data Science** engineering student in **ENSEEIHT**  passionate about **Data Science** ,**Artificial Intelligence** et **Machine/Deep Learning**.
+When I'm not developing and building things, you can find me on Youtube learning, reading an article about science, new technology or politics, watching anime, daydreaming actionpacked dreams where i am the MC or on my laptop gaming. But most of my days are spent working on projects while listening to LoFi, ChillHop and/or Rainy Jazz, Studying or procrastinating (Sadge).
 
 
   ## Languages and Tools 
@@ -25,6 +26,8 @@ Hello, I'm **Souhail AMGHAR**. I'm an **Computer Science** and **Data Science** 
 
 ##  How to reach me 📫
  * ✉️  [Email](Souhailamghar98@gmail.com)
+ * 🐤 [Twitter](https://twitter.com/souhailAmgh) 
+ * 👨💼 [LinkedIn](https://linkedin.com/in/souhail-amghar/) 
 
 
 
@@ -53,7 +56,16 @@ Hello, I'm **Souhail AMGHAR**. I'm an **Computer Science** and **Data Science** 
 
 <!--/details--> 
 
+### 📰 Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- Coming Soon 🔨✒
+<!-- BLOG-POST-LIST:END -->
 
+### 💼 Where i am currently working at/as
+- Coming Soon 🔨✒
+
+### 💻 What i am currently/done working on
+- Coming Soon 🔨✒
 
 ## My skills 📜
 
