@@ -26,15 +26,15 @@ When I'm not developing and building things, you can find me on Youtube learning
  * 👨💼 [LinkedIn](https://linkedin.com/in/souhail-amghar/) 
 
 
-### 📰 Blog Posts
+## 📰 Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - Coming Soon 🔨✒
 <!-- BLOG-POST-LIST:END -->
 
-### 💼 Where i am currently working at/as
+## 💼 Where i am currently working at/as
 - Coming Soon 🔨✒
 
-### 💻 What i am currently/done working on
+## 💻 What i am currently/done working on
 - Coming Soon 🔨✒
 
 ## My skills 📜
@@ -50,7 +50,7 @@ When I'm not developing and building things, you can find me on Youtube learning
 
 
 
-### Languages 🌐
+## Languages 🌐
 
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
