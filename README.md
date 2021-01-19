@@ -25,9 +25,9 @@ When I'm not developing and building things, you can find me on Youtube learning
  * 🐤 [Twitter](https://twitter.com/souhailAmgh) 
  * 👨💼 [LinkedIn](https://linkedin.com/in/souhail-amghar/) 
 
-
+<!--
 ## 📰 Blog Posts
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START 
 - Coming Soon 🔨✒
 <!-- BLOG-POST-LIST:END -->
 
