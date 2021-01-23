@@ -3,7 +3,7 @@
 
 <br>
 
-Hello, I'm **Souhail AMGHAR**. I'm a **Computer Science** and **Data Science** engineering student in **ENSEEIHT**  passionate about **Data Science** ,**Artificial Intelligence** et **Machine/Deep Learning**.
+Hello, I'm **Souhail AMGHAR**. I'm a **Computer Science** engineering student in **ENSEEIHT**, and I'm passionate about **Data Science** ,**Artificial Intelligence** et **Machine/Deep Learning**.
 When I'm not developing and building things, you can find me on Youtube learning, reading an article about science, new technology or politics, watching anime, daydreaming actionpacked dreams where i am the MC or on my laptop gaming. But most of my days are spent working on projects while listening to LoFi, ChillHop and/or Rainy Jazz, Studying or procrastinating (Sadge).
 
 <p align="center" >
