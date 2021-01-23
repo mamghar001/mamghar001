@@ -6,6 +6,9 @@
 Hello, I'm **Souhail AMGHAR**. I'm an **Computer Science** and **Data Science** engineering student in **ENSEEIHT**  passionate about **Data Science** ,**Artificial Intelligence** et **Machine/Deep Learning**.
 When I'm not developing and building things, you can find me on Youtube learning, reading an article about science, new technology or politics, watching anime, daydreaming actionpacked dreams where i am the MC or on my laptop gaming. But most of my days are spent working on projects while listening to LoFi, ChillHop and/or Rainy Jazz, Studying or procrastinating (Sadge).
 
+<p align="center" >
+  <img src="https://images.squarespace-cdn.com/content/v1/580fa9f7e58c62cb7501937b/1496358009519-3OOP60SU1L9CWOXN544R/ke17ZwdGBToddI8pDm48kJRqFJ19D4P4EwsC9z3fiewUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2dn3So03l79BKEoq-AWKelKdncgyogL09V32_rYUHj6maCjLISwBs8eEdxAxTptZAUg/bedroom.gif?format=2500w" width="600" height="300">
+</p>
 
   ## Languages and Tools 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) 
@@ -21,7 +24,7 @@ When I'm not developing and building things, you can find me on Youtube learning
 
 
 ##  How to reach me 📫
- * ✉️  [Email](Souhailamghar98@gmail.com)
+ * ✉️  [Email](mailto:Souhailamghar98@gmail.com)
  * 🐤 [Twitter](https://twitter.com/souhailAmgh) 
  * 👨💼 [LinkedIn](https://linkedin.com/in/souhail-amghar/) 
 
