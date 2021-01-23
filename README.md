@@ -31,11 +31,9 @@ When I'm not developing and building things, you can find me on Youtube learning
 - Coming Soon 🔨✒
 <!-- BLOG-POST-LIST:END -->
 
-## 💼 Where i am currently working at/as
+## 💼 Where i am currently/done working on
 - Coming Soon 🔨✒
 
-## 💻 What i am currently/done working on
-- Coming Soon 🔨✒
 
 ## My skills 📜
 
@@ -58,3 +56,9 @@ When I'm not developing and building things, you can find me on Youtube learning
 | French        | Intermediate  |
 | German        | beginner      |
 | Arabic        | Native language  |                                                         |
+
+## My Git References 💻
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssouh&layout=compact)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ssouh&show_icons=true&theme=radical)
