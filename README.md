@@ -1,9 +1,9 @@
 ## Hi There ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-![](https://visitor-badge.laobi.icu/badge?page_id=Ssouh)
+![](https://visitor-badge.laobi.icu/badge?page_id=mamghar001)
 
 <br>
 
-Hello, I'm **Souhail AMGHAR**. I'm a **Computer Science** engineering student in **ENSEEIHT**, and I'm passionate about **Data Science** ,**Artificial Intelligence** et **Machine/Deep Learning**.<br>
+Hello, I'm **Mohamed Amine AMGHAR**. I'm a **Computer Science** engineering student in **ENSEIRB-MATMECA (Bordeaux-Inp)**, and I'm passionate about **Data Science** ,**Artificial Intelligence** et **Machine/Deep Learning**.<br>
 When I'm not developing and building things, you can find me reading an article about science, new technology or politics, watching anime, sightseeing on Youtube or SM learning stuff, or on my laptop gaming. But most of my days are spent working on projects while listening to LoFi, ChillHop and/or Rainy Jazz, Studying or procrastinating (Sadge).
 
 <p align="center" >
@@ -24,9 +24,8 @@ When I'm not developing and building things, you can find me reading an article 
 
 
 ##  How to reach me 📫
- * ✉️  [Email](mailto:Souhailamghar98@gmail.com)
- * 🐤 [Twitter](https://twitter.com/souhailAmgh) 
- * 👨💼 [LinkedIn](https://linkedin.com/in/souhail-amghar/) 
+ * ✉️  [Email](mailto:mamghar001@bordeaux-inp.fr)
+ * 👨💼 [LinkedIn](https://linkedin.com/in//) 
 
 <!--
 ## 📰 Blog Posts
@@ -62,6 +61,6 @@ When I'm not developing and building things, you can find me reading an article 
 
 ## My Git References 💻
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssouh&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamghar001&layout=compact)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ssouh&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mamghar001&show_icons=true&theme=radical)
