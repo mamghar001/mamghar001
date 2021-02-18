@@ -7,9 +7,8 @@ Hi there, I'm **Mohamed Amine AMGHAR**. I'm a **Computer Science** engineering s
 You will often find me, these days, learning new ML concepts and skills on kaggle.com or Youtube or random websites. I am currently fascinated by the process of learning and extracting knowledge from ***data***, and it seems to me like it is a necessity nowadays to tackle complexe problems.
 
 <p align="center" >
-  <img src="https://github.com/mamghar001/mamghar001/blob/main/tenor.gif" width="600" height="300">
+  <img src="https://github.com/mamghar001/mamghar001/blob/main/tenor.gif" width="800" height="700">
 </p >
-![](tenor.gif)
 
 
   ## Languages and Tools 
