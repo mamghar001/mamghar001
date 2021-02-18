@@ -6,9 +6,9 @@
 Hi there, I'm **Mohamed Amine AMGHAR**. I'm a **Computer Science** engineering student in **ENSEIRB-MATMECA (Bordeaux-Inp)**, and I'm passionate about **Data Science** ,**Artificial Intelligence** et **Machine/Deep Learning**.<br>
 You will often find me, these days, learning new ML concepts and skills on kaggle.com or Youtube or random websites. I am currently fascinated by the process of learning and extracting knowledge from ***data***, and it seems to me like it is a necessity nowadays to tackle complexe problems.
 
-<!--p align="center" >
-  <img src="https://images.squarespace-cdn.com/content/v1/580fa9f7e58c62cb7501937b/1496358009519-3OOP60SU1L9CWOXN544R/ke17ZwdGBToddI8pDm48kJRqFJ19D4P4EwsC9z3fiewUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2dn3So03l79BKEoq-AWKelKdncgyogL09V32_rYUHj6maCjLISwBs8eEdxAxTptZAUg/bedroom.gif?format=2500w" width="600" height="300">
-</p -->
+<p align="center" >
+  <img src="https://github.com/mamghar001/mamghar001/blob/main/tenor.gif" width="600" height="300">
+</p >
 ![](tenor.gif)
 
 
