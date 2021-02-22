@@ -3,8 +3,8 @@
 
 <br>
 
-Hi there, I'm **Mohamed Amine AMGHAR**. I'm a **Computer Science** engineering student in **ENSEIRB-MATMECA (Bordeaux-Inp)**, and I'm passionate about **Data Science** ,**Artificial Intelligence** et **Machine/Deep Learning**.<br>
-You will often find me, these days, learning new ML concepts and skills on kaggle.com or Youtube or random websites. I am currently fascinated by the process of learning and extracting knowledge from ***data***, and it seems to me like it is a necessity nowadays to tackle complexe problems.
+Hi there, I'm **Mohamed Amine AMGHAR**, a **Computer Science** engineering student at **ENSEIRB-MATMECA (Bordeaux-Inp)**. I'm passionate about **Data Science** ,**Artificial Intelligence** et **Machine/Deep Learning**.<br>
+You will often find me, these days, learning new ML concepts and skills either on kaggle.com or Youtube or a random website. I am currently fascinated by the process of learning and extracting knowledge from big ***datasets***, and it seems to me like it's a necessity nowadays to tackle complexe problems especially for industrial companies.
 
 <p align="center" >
   <img src="https://github.com/mamghar001/mamghar001/blob/main/tenor.gif" width="500" height="400">
